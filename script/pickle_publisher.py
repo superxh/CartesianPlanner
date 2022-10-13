@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """***********************************************************************************
      C++ Source Codes for "Autonomous Driving on Curvy Roads without Reliance on
      Frenet Frame: A Cartesian-based Trajectory Planning Method".
